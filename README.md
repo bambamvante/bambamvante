@@ -1,1 +1,1 @@
-for libft
+for 42 bangkok 
